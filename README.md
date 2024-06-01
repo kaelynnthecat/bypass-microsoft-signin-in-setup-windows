@@ -1,2 +1,3 @@
 # bypass-microsoft-signin-in-setup-windows
-<p>OOBE\BYPASSNRO</p>
+OOBE\BYPASSNRO
+select "i don't have internet"
